@@ -1,51 +1,75 @@
-🚀 Nexo Dynamic
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DarioA-Dev/Preparar-paginas-web/main/imagenes/top-readme.png" alt="El Nexo Banner" style="width: 100%; border-radius: 20px;">
+</p>
 
-Nexo Dynamic es un script de optimización diseñado para mejorar el rendimiento en juegos, reducir el input lag, limpiar caché innecesaria y optimizar procesos del sistema en tiempo real.
+<div align="center">
+  <img src="https://img.shields.io/badge/Versión-1.0_Dynamic-0078D6?style=flat-square">
+  <img src="https://img.shields.io/badge/SO-Windows_10_/_11-0078D6?style=flat-square">
+  <img src="https://img.shields.io/badge/Lenguaje-Batch_/_PowerShell-0078D6?style=flat-square">
+</div>
 
-Pensado para usuarios que buscan más estabilidad, menos latencia y mejor respuesta sin tocar configuraciones avanzadas manualmente.
+---
 
-✨ Características
+# NEXO DYNAMIC V1.0
 
-🎮 Reducción de input lag
+Nexo Dynamic representa la vanguardia en la optimización modular de sistemas operativos Windows. Este repositorio centraliza una serie de algoritmos de automatización diseñados para reducir la latencia de procesamiento, eliminar procesos redundantes del Kernel y estabilizar el flujo de datos en entornos de alta demanda.
 
-⚡ Mejora del rendimiento en juegos
+## ARQUITECTURA DEL SISTEMA
 
-🧠 Optimización de procesos y recursos del sistema
+El despliegue de Nexo Dynamic se divide en tres componentes críticos:
 
-🧹 Limpieza automática de caché
+1. **Optimizar.bat**: Núcleo de ejecución. Implementa ajustes de registro, gestión de servicios y protocolos de red avanzados (TCP CUBIC, MSI Mode).
+2. **Revertir.bat**: Módulo de rescate. Restaura los valores predeterminados del sistema mediante una inyección controlada de registros originales.
+3. **Guia_Optimizacion.md**: Documentación técnica detallada sobre la metodología de aplicación y requisitos de hardware.
 
-🔄 Ajustes dinámicos según carga del sistema
+---
 
-🪶 Script ligero, rápido y sin procesos innecesarios
+## PROTOCOLOS TÉCNICOS INTEGRADOS
 
-📦 ¿Qué hace exactamente?
+La suite opera bajo estándares de ingeniería de sistemas para garantizar la integridad del SO:
 
-Libera memoria y recursos no utilizados
+- **Codificación Universal**: Implementación de `chcp 65001` para compatibilidad total con caracteres UTF-8.
+- **Validación de Privilegios**: Rutina integrada de verificación de permisos de Administrador para evitar errores de acceso denegado.
+- **Ajuste de Kernel**: Modificación de parámetros BCDEDIT y Synthetic Timers para minimizar el input lag.
+- **Network Tuning**: Optimización de algoritmos de congestión y desactivación del algoritmo de Nagle.
 
-Elimina archivos temporales y caché del sistema
+---
 
-Prioriza procesos relacionados con juegos
+## REQUISITOS DE DESPLIEGUE
 
-Reduce micro-stuttering y latencia de entrada
+Para una correcta ejecución de los protocolos, el entorno debe cumplir con:
+- Sistema Operativo Windows 10 o Windows 11.
+- Ejecución con privilegios de Administrador.
+- Desactivación temporal de procesos de seguridad que bloqueen la inyección de registros.
 
-Mantiene el sistema más estable durante sesiones largas de juego
+---
 
-🛠 Requisitos
+## ESTRUCTURA DE ARCHIVOS
 
-Windows 10 / Windows 11
+<table style="width: 100%; border: none;">
+  <tr>
+    <td style="border: 1px solid #30363d; padding: 10px; border-radius: 10px;">
+      <b>Optimizar.bat</b><br>
+      Inyección de configuraciones de alto rendimiento.
+    </td>
+    <td style="border: 1px solid #30363d; padding: 10px; border-radius: 10px;">
+      <b>Revertir.bat</b><br>
+      Restauración de parámetros de fábrica.
+    </td>
+  </tr>
+</table>
 
-Permisos de administrador
+---
 
-Recomendado: cerrar programas en segundo plano antes de ejecutar
+## DESCARGO DE RESPONSABILIDAD
 
-▶️ Uso
+El uso de Nexo Dynamic implica la modificación de parámetros críticos del sistema operativo. El Nexo no se hace responsable de fallos derivados de una mala aplicación de los scripts o incompatibilidades con hardware específico. Se recomienda la creación de un punto de restauración antes de proceder.
 
-Descargá el script
+---
 
-Ejecutalo como Administrador
-
-Seleccioná el modo de optimización (si aplica)
-
-Jugá con el sistema optimizado
-
-⚠️ Se recomienda reiniciar el sistema tras la primera ejecución para mejores resultados.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DarioA-Dev/Preparar-paginas-web/main/imagenes/El-Nexo-perfil-staff.png" width="120px" style="border-radius: 10px;">
+  <br>
+  <b>Desarrollado por El Nexo</b><br>
+  <a href="https://elnexocenter.com/">elnexocenter.com</a>
+</p>
