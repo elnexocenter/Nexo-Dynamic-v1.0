@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Versión-1.0_Dynamic-0078D6?style=flat-square">
+  <img src="https://img.shields.io/badge/Versión-1.5_Dynamic-0078D6?style=flat-square">
   <img src="https://img.shields.io/badge/SO-Windows_10_/_11-0078D6?style=flat-square">
   <img src="https://img.shields.io/badge/Lenguaje-Batch_/_PowerShell-0078D6?style=flat-square">
 </div>
